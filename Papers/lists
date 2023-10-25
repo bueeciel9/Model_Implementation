@@ -3,3 +3,8 @@
 - EfficientNet
 - InceptionNet
 - VGGNet
+- MobileNet
+- SENet
+- WideResNet
+- ZFnet
+- DenseNet
