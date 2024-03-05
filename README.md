@@ -1,7 +1,7 @@
 # Model_Implementation
 Deep Learning models implementation
 
-model list:
+**model list:**
 - DenseNet
 - EfficientNet
 - Inception_v1
